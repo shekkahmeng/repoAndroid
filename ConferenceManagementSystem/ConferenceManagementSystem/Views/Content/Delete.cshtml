@@ -1,0 +1,96 @@
+﻿@model ConferenceManagementSystem.Models.Content
+
+@{
+    ViewBag.Title = "Delete";
+}
+
+<h2>Delete</h2>
+
+<h3>Are you sure you want to delete this?</h3>
+<div>
+    <h4>Content</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.conference.Username)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.conference.Username)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.NewInfo)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NewInfo)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.WelcomeTitle)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.WelcomeTitle)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.WelcomeText)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.WelcomeText)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Organizer)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Organizer)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Accomodation)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Accomodation)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Committee)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Committee)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.CallForPapers)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CallForPapers)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Programmes)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Programmes)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Delete" class="btn btn-default" /> |
+            @Html.ActionLink("Back to List", "Index")
+        </div>
+    }
+</div>

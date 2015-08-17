@@ -1,0 +1,138 @@
+﻿@model ConferenceManagementSystem.Models.NotificationEmail
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>NotificationEmail</h4>
+	<hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.conference.Username)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.conference.Username)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.PresenterRegistration)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.PresenterRegistration)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ParticipantRegistration)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ParticipantRegistration)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ParticipantConfirmation)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ParticipantConfirmation)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.AbstractSubmission)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.AbstractSubmission)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.AbstractAcceptance)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.AbstractAcceptance)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.AbstractRejection)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.AbstractRejection)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.FullPaperSubmission)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.FullPaperSubmission)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.PaperAcceptance)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.PaperAcceptance)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.PaperRejection)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.PaperRejection)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.CameraReadyPaper)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CameraReadyPaper)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ReviewerInvitation)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ReviewerInvitation)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.PaperForReviewing)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.PaperForReviewing)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.FinishReview)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.FinishReview)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.UserInvitation)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.UserInvitation)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.EmailId }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

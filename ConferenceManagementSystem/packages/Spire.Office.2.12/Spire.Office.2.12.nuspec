@@ -1,0 +1,96 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>Spire.Office</id>
+    <version>2.12</version>
+    <title>Spire.Office for .NET</title>
+    <authors>daisyrose</authors>
+    <owners>daisyrose</owners>
+    <licenseUrl>http://www.e-iceblue.com/Knowledgebase/Licensing/License-Agreement.html</licenseUrl>
+    <projectUrl>http://www.e-iceblue.com/Introduce/spire-office-for-net.html</projectUrl>
+    <iconUrl>http://www.e-iceblue.com/images/product_logo/product_buy/officenet.png</iconUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>Spire.Office for .NET is a combination of Enterprise-Level Office .NET components offered by E-iceblue. It includes Spire.Doc, Spire XLS, Spire.Presentation, Spire.PDF, Spire.DataExport, Spire.PDFViewer, Spire.DocViewer and Spire.BarCode. Spire.Office contains the most up-to-date versions of the above .NET components.
+
+With Spire.Office for .NET, developers can create a wide range of applications. It enables developers to open, create, modify, convert, print, View MS Word, Excel, PowerPoint and PDF documents. Furthermore, it allows users to export data to popular files such as MS Word/Excel/RTF/Access, PowerPoint, PDF, XPS, HTML, XML, Text, CSV, DBF, Clipboard, SYLK, etc.
+
+As an independent Office .NET component, Spire.Office doesn't need Microsoft Office to be installed on neither the development nor target systems. In addition, it is a better alternative to MS Office Automation in terms of security, stability, scalability, speed, price and features.
+
+Spire.Office for .NET can be linked into any type of a 32-bit or 64-bit .NET application including ASP.NET, Web Services and WinForms for .NET Framework version 2.0 to 4.5.</description>
+    <summary>Spire.Office for .NET is a combination of Spire.Doc, Spire.XLS, Spire.Presentatin, Spire.PDF, Spire.DocViewer, Spire.PDFViewer, Spire.DataExport and Spire.Barcode.</summary>
+    <releaseNotes>Spire.Office 2.12
+
+Spire.Doc v5.5.31, 
+Spire.PDF v3.4.119, 
+Spire.XLS v7.8.1,
+Spire.Presentation v2.3.11,
+Spire.PDFViewer v2.6.77, 
+Spire.DocViewer v2.0.9,
+Spire.DataExport v3.5.15,
+Spire.Barcode v1.2.6
+
+Spire.Doc
+New Feature:
+
+Add the feature to support the nested bookmark in PDF when convert .doc to pdf.
+
+Bug Solutions:
+
+Fixes the issue that caused the NullException when load RTF document.
+Fixes the issue where the content displayed incorrectly when converts rtf to Html.
+Fixes the issue that caused conversion failure when convert .docx to pdf.
+Fixes the issue that caused "Wrong signature" Exception when load .docx document.
+Fixes the issue that caused "Date time value should be after 12/31/1900" exception when load .docx document.
+Fixes the issue that caused incorrect merge result.
+Fixes the issue that caused content loss after .docx to .docx conversion.
+Fixes the issue that caused list number loss after .doc to .txt conversion.
+Fixes the issue where the AppendRTF method caused "The object reference does not match an object instance" exception.
+Fixes the issue where some documents can't be saved.
+Fixes the issue where some word documents can't be converted to PDF.
+Fixes the issue that caused the content loss when converts .docx to PDF.
+Addresses the issue that caused some word documents loading failure.
+Fixes the issue where image lost and right margin was wrong while converting docx file to pdf.
+Fixes the issue that caused the content incorrect when convert .docx to pdf.
+Resolves the issue that caused picture not shown in the PDF when the file path points to a server instead of a drive when convert RTF to PDF.
+Fixes the issue where the fonts in the word document are not embedded in the pdf document when convert .docx to pdf.
+Fixes the issue where content was incorrect when convert doc to pdf.
+Fixes the issue that caused error when perform some replacement of texts.
+Fixes the issue that caused OutOfMemoryException when save Html as Rtf.
+Fixes the issue where the header content displayed difference between Word2010 and Word2013.
+Resolves the issue that caused the table position not same as Word when convert docx to Pdf.
+Fixes the issue that caused load error.
+Addresses the issue where the image didn't display when convert rtf to pdf.
+Fixes the issue where the bookmark displayed incorrectly in pdf when convert doc to pdf.
+
+Spire.XLS
+New Features:
+
+Add new feature to add a picture to chart at a location, and then assign a hyperlink to it.
+Add new feature to set dataField position in pivotTable.
+Bug Solutions:
+
+Fixes the issue where Strong encryption algorithms are not supported when load encrypted Excel document.
+Fixes the issue that caused Excel document to PDF conversion failed.
+Fixes the issue that caused content incorrect when convert Excel document to PDF.
+Reduce the generated PDF document size when convert Excel document to PDF.
+Addresses the issue that caused the ArgumentOutOfRangeException when insert image into footer.
+Fixes the issue where it is unable to read complete Excel file.
+Resolves the issue that caused the xlsm/xlsx document failed to load.
+Fixes the issue that caused the Exception that "The number must be between 10 and 400" when load .xlsx file.
+Fixes the issue that caused IndexOutOfRangeException when load .xlsx file via stream.
+Reduce the elapsed time while convert Excel document to image.
+Spire.PDF
+Bug Solutions:
+
+Fixes the issue that caused the image blurred when convert pdf to image.
+Fixes the issue where the gradient color lost when convert pdf to image.
+Fixes the issue where the page content was incorrect when merge pdf files.
+Resolves the issue where the header template was not printed when print pdf.
+Fixes the issue where blank page was printed when print pdf.
+Fixes the issue where the text includes bracket can't be found when use FindText method to find text.
+Fixes the issue that caused the "division by zero" exception when use loadfromxps method in COM library.</releaseNotes>
+    <copyright>Copyright © 2015 e-iceblue. All Rights Reserved.</copyright>
+    <language>es-US</language>
+    <tags>word excel presentation Pdf image dataexport barcode</tags>
+  </metadata>
+</package>

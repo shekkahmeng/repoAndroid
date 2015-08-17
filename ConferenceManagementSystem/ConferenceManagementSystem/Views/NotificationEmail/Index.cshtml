@@ -1,0 +1,117 @@
+﻿@model IEnumerable<ConferenceManagementSystem.Models.NotificationEmail>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.conference.Username)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.PresenterRegistration)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ParticipantRegistration)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ParticipantConfirmation)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.AbstractSubmission)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.AbstractAcceptance)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.AbstractRejection)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.FullPaperSubmission)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.PaperAcceptance)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.PaperRejection)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.CameraReadyPaper)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ReviewerInvitation)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.PaperForReviewing)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.FinishReview)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.UserInvitation)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.conference.Username)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.PresenterRegistration)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.ParticipantRegistration)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.ParticipantConfirmation)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.AbstractSubmission)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.AbstractAcceptance)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.AbstractRejection)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.FullPaperSubmission)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.PaperAcceptance)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.PaperRejection)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.CameraReadyPaper)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.ReviewerInvitation)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.PaperForReviewing)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.FinishReview)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.UserInvitation)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.EmailId }) |
+            @Html.ActionLink("Details", "Details", new { id=item.EmailId }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.EmailId })
+        </td>
+    </tr>
+}
+
+</table>

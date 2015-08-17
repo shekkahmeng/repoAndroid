@@ -1,0 +1,499 @@
+c:\users\how\documents\visual studio 2013\Projects\ConferenceManagementSystem\ConferenceManagementSystem\bin\ConferenceManagementSystem.dll.config
+c:\users\how\documents\visual studio 2013\Projects\ConferenceManagementSystem\ConferenceManagementSystem\bin\ConferenceManagementSystem.dll
+c:\users\how\documents\visual studio 2013\Projects\ConferenceManagementSystem\ConferenceManagementSystem\bin\ConferenceManagementSystem.pdb
+c:\users\how\documents\visual studio 2013\Projects\ConferenceManagementSystem\ConferenceManagementSystem\bin\Antlr3.Runtime.dll
+c:\users\how\documents\visual studio 2013\Projects\ConferenceManagementSystem\ConferenceManagementSystem\bin\EntityFramework.dll
+c:\users\how\documents\visual studio 2013\Projects\ConferenceManagementSystem\ConferenceManagementSystem\bin\EntityFramework.SqlServer.dll
+c:\users\how\documents\visual studio 2013\Projects\ConferenceManagementSystem\ConferenceManagementSystem\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\how\documents\visual studio 2013\Projects\ConferenceManagementSystem\ConferenceManagementSystem\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\how\documents\visual studio 2013\Projects\ConferenceManagementSystem\ConferenceManagementSystem\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\how\documents\visual studio 2013\Projects\ConferenceManagementSystem\ConferenceManagementSystem\bin\Microsoft.Owin.dll
+c:\users\how\documents\visual studio 2013\Projects\ConferenceManagementSystem\ConferenceManagementSystem\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\how\documents\visual studio 2013\Projects\ConferenceManagementSystem\ConferenceManagementSystem\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\how\documents\visual studio 2013\Projects\ConferenceManagementSystem\ConferenceManagementSystem\bin\Microsoft.Owin.Security.dll
+c:\users\how\documents\visual studio 2013\Projects\ConferenceManagementSystem\ConferenceManagementSystem\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\how\documents\visual studio 2013\Projects\ConferenceManagementSystem\ConferenceManagementSystem\bin\Microsoft.Owin.Security.Google.dll
+c:\users\how\documents\visual studio 2013\Projects\ConferenceManagementSystem\ConferenceManagementSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\how\documents\visual studio 2013\Projects\ConferenceManagementSystem\ConferenceManagementSystem\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\how\documents\visual studio 2013\Projects\ConferenceManagementSystem\ConferenceManagementSystem\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\how\documents\visual studio 2013\Projects\ConferenceManagementSystem\ConferenceManagementSystem\bin\Microsoft.Web.Infrastructure.dll
+c:\users\how\documents\visual studio 2013\Projects\ConferenceManagementSystem\ConferenceManagementSystem\bin\Newtonsoft.Json.dll
+c:\users\how\documents\visual studio 2013\Projects\ConferenceManagementSystem\ConferenceManagementSystem\bin\Owin.dll
+c:\users\how\documents\visual studio 2013\Projects\ConferenceManagementSystem\ConferenceManagementSystem\bin\System.Web.Helpers.dll
+c:\users\how\documents\visual studio 2013\Projects\ConferenceManagementSystem\ConferenceManagementSystem\bin\System.Web.Mvc.dll
+c:\users\how\documents\visual studio 2013\Projects\ConferenceManagementSystem\ConferenceManagementSystem\bin\System.Web.Optimization.dll
+c:\users\how\documents\visual studio 2013\Projects\ConferenceManagementSystem\ConferenceManagementSystem\bin\System.Web.Razor.dll
+c:\users\how\documents\visual studio 2013\Projects\ConferenceManagementSystem\ConferenceManagementSystem\bin\System.Web.WebPages.Deployment.dll
+c:\users\how\documents\visual studio 2013\Projects\ConferenceManagementSystem\ConferenceManagementSystem\bin\System.Web.WebPages.dll
+c:\users\how\documents\visual studio 2013\Projects\ConferenceManagementSystem\ConferenceManagementSystem\bin\System.Web.WebPages.Razor.dll
+c:\users\how\documents\visual studio 2013\Projects\ConferenceManagementSystem\ConferenceManagementSystem\bin\WebGrease.dll
+c:\users\how\documents\visual studio 2013\Projects\ConferenceManagementSystem\ConferenceManagementSystem\bin\System.Web.Helpers.xml
+c:\users\how\documents\visual studio 2013\Projects\ConferenceManagementSystem\ConferenceManagementSystem\bin\System.Web.Mvc.xml
+c:\users\how\documents\visual studio 2013\Projects\ConferenceManagementSystem\ConferenceManagementSystem\bin\System.Web.Optimization.xml
+c:\users\how\documents\visual studio 2013\Projects\ConferenceManagementSystem\ConferenceManagementSystem\bin\System.Web.Razor.xml
+c:\users\how\documents\visual studio 2013\Projects\ConferenceManagementSystem\ConferenceManagementSystem\bin\System.Web.WebPages.xml
+c:\users\how\documents\visual studio 2013\Projects\ConferenceManagementSystem\ConferenceManagementSystem\bin\System.Web.WebPages.Deployment.xml
+c:\users\how\documents\visual studio 2013\Projects\ConferenceManagementSystem\ConferenceManagementSystem\bin\System.Web.WebPages.Razor.xml
+c:\users\how\documents\visual studio 2013\Projects\ConferenceManagementSystem\ConferenceManagementSystem\bin\Newtonsoft.Json.xml
+c:\users\how\documents\visual studio 2013\Projects\ConferenceManagementSystem\ConferenceManagementSystem\bin\Antlr3.Runtime.pdb
+c:\users\how\documents\visual studio 2013\Projects\ConferenceManagementSystem\ConferenceManagementSystem\bin\EntityFramework.xml
+c:\users\how\documents\visual studio 2013\Projects\ConferenceManagementSystem\ConferenceManagementSystem\bin\EntityFramework.SqlServer.xml
+c:\users\how\documents\visual studio 2013\Projects\ConferenceManagementSystem\ConferenceManagementSystem\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\how\documents\visual studio 2013\Projects\ConferenceManagementSystem\ConferenceManagementSystem\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\how\documents\visual studio 2013\Projects\ConferenceManagementSystem\ConferenceManagementSystem\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\how\documents\visual studio 2013\Projects\ConferenceManagementSystem\ConferenceManagementSystem\bin\Microsoft.Owin.xml
+c:\users\how\documents\visual studio 2013\Projects\ConferenceManagementSystem\ConferenceManagementSystem\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\how\documents\visual studio 2013\Projects\ConferenceManagementSystem\ConferenceManagementSystem\bin\Microsoft.Owin.Security.xml
+c:\users\how\documents\visual studio 2013\Projects\ConferenceManagementSystem\ConferenceManagementSystem\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\how\documents\visual studio 2013\Projects\ConferenceManagementSystem\ConferenceManagementSystem\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\how\documents\visual studio 2013\Projects\ConferenceManagementSystem\ConferenceManagementSystem\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\how\documents\visual studio 2013\Projects\ConferenceManagementSystem\ConferenceManagementSystem\bin\Microsoft.Owin.Security.Google.xml
+c:\users\how\documents\visual studio 2013\Projects\ConferenceManagementSystem\ConferenceManagementSystem\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\how\documents\visual studio 2013\Projects\ConferenceManagementSystem\ConferenceManagementSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\how\documents\visual studio 2013\Projects\ConferenceManagementSystem\ConferenceManagementSystem\obj\Debug\ConferenceManagementSystem.dll
+c:\users\how\documents\visual studio 2013\Projects\ConferenceManagementSystem\ConferenceManagementSystem\obj\Debug\ConferenceManagementSystem.pdb
+c:\users\how\documents\visual studio 2013\Projects\ConferenceManagementSystem\ConferenceManagementSystem\bin\WebMatrix.Data.dll
+c:\users\how\documents\visual studio 2013\Projects\ConferenceManagementSystem\ConferenceManagementSystem\bin\WebMatrix.WebData.dll
+c:\users\how\documents\visual studio 2013\Projects\ConferenceManagementSystem\ConferenceManagementSystem\bin\WebMatrix.Data.xml
+c:\users\how\documents\visual studio 2013\Projects\ConferenceManagementSystem\ConferenceManagementSystem\bin\WebMatrix.WebData.xml
+c:\users\how\documents\visual studio 2013\Projects\ConferenceManagementSystem\ConferenceManagementSystem\bin\Microsoft.Web.Helpers.dll
+c:\users\how\documents\visual studio 2013\Projects\ConferenceManagementSystem\ConferenceManagementSystem\obj\Debug\ConferenceManagementSystem.csprojResolveAssemblyReference.cache
+c:\users\how\documents\visual studio 2013\Projects\ConferenceManagementSystem\ConferenceManagementSystem\bin\BotDetect.dll
+c:\users\how\documents\visual studio 2013\Projects\ConferenceManagementSystem\ConferenceManagementSystem\bin\BotDetect.Web.UI.Mvc.dll
+C:\Users\how\Documents\Visual Studio 2013\Projects\ConferenceManagementSystem\ConferenceManagementSystem\bin\Spire.Barcode.dll
+C:\Users\how\Documents\Visual Studio 2013\Projects\ConferenceManagementSystem\ConferenceManagementSystem\bin\Spire.Common.dll
+C:\Users\how\Documents\Visual Studio 2013\Projects\ConferenceManagementSystem\ConferenceManagementSystem\bin\Spire.DataExport.dll
+C:\Users\how\Documents\Visual Studio 2013\Projects\ConferenceManagementSystem\ConferenceManagementSystem\bin\Spire.DataExport.ResourceMgr.dll
+C:\Users\how\Documents\Visual Studio 2013\Projects\ConferenceManagementSystem\ConferenceManagementSystem\bin\Spire.Doc.dll
+C:\Users\how\Documents\Visual Studio 2013\Projects\ConferenceManagementSystem\ConferenceManagementSystem\bin\Spire.DocViewer.Forms.dll
+C:\Users\how\Documents\Visual Studio 2013\Projects\ConferenceManagementSystem\ConferenceManagementSystem\bin\Spire.License.dll
+C:\Users\how\Documents\Visual Studio 2013\Projects\ConferenceManagementSystem\ConferenceManagementSystem\bin\Spire.Pdf.dll
+C:\Users\how\Documents\Visual Studio 2013\Projects\ConferenceManagementSystem\ConferenceManagementSystem\bin\Spire.PdfViewer.Forms.dll
+C:\Users\how\Documents\Visual Studio 2013\Projects\ConferenceManagementSystem\ConferenceManagementSystem\bin\Spire.Presentation.dll
+C:\Users\how\Documents\Visual Studio 2013\Projects\ConferenceManagementSystem\ConferenceManagementSystem\bin\Spire.XLS.dll
+C:\Users\how\Documents\Visual Studio 2013\Projects\ConferenceManagementSystem\ConferenceManagementSystem\bin\Spire.Barcode.xml
+C:\Users\how\Documents\Visual Studio 2013\Projects\ConferenceManagementSystem\ConferenceManagementSystem\bin\Spire.Common.xml
+C:\Users\how\Documents\Visual Studio 2013\Projects\ConferenceManagementSystem\ConferenceManagementSystem\bin\Spire.DataExport.xml
+C:\Users\how\Documents\Visual Studio 2013\Projects\ConferenceManagementSystem\ConferenceManagementSystem\bin\Spire.Doc.xml
+C:\Users\how\Documents\Visual Studio 2013\Projects\ConferenceManagementSystem\ConferenceManagementSystem\bin\Spire.DocViewer.Forms.xml
+C:\Users\how\Documents\Visual Studio 2013\Projects\ConferenceManagementSystem\ConferenceManagementSystem\bin\Spire.License.xml
+C:\Users\how\Documents\Visual Studio 2013\Projects\ConferenceManagementSystem\ConferenceManagementSystem\bin\Spire.Pdf.xml
+C:\Users\how\Documents\Visual Studio 2013\Projects\ConferenceManagementSystem\ConferenceManagementSystem\bin\Spire.PdfViewer.Forms.xml
+C:\Users\how\Documents\Visual Studio 2013\Projects\ConferenceManagementSystem\ConferenceManagementSystem\bin\Spire.Presentation.xml
+C:\Users\how\Documents\Visual Studio 2013\Projects\ConferenceManagementSystem\ConferenceManagementSystem\bin\Spire.XLS.xml
+C:\Users\shekkahmeng\Desktop\conference app help\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\ConferenceManagementSystem.dll.config
+C:\Users\shekkahmeng\Desktop\conference app help\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\ConferenceManagementSystem.dll
+C:\Users\shekkahmeng\Desktop\conference app help\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\ConferenceManagementSystem.pdb
+C:\Users\shekkahmeng\Desktop\conference app help\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Antlr3.Runtime.dll
+C:\Users\shekkahmeng\Desktop\conference app help\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\BotDetect.dll
+C:\Users\shekkahmeng\Desktop\conference app help\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\BotDetect.Web.UI.Mvc.dll
+C:\Users\shekkahmeng\Desktop\conference app help\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\EntityFramework.dll
+C:\Users\shekkahmeng\Desktop\conference app help\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\EntityFramework.SqlServer.dll
+C:\Users\shekkahmeng\Desktop\conference app help\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\shekkahmeng\Desktop\conference app help\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\shekkahmeng\Desktop\conference app help\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\shekkahmeng\Desktop\conference app help\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Microsoft.Owin.dll
+C:\Users\shekkahmeng\Desktop\conference app help\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\shekkahmeng\Desktop\conference app help\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\shekkahmeng\Desktop\conference app help\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Microsoft.Owin.Security.dll
+C:\Users\shekkahmeng\Desktop\conference app help\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\shekkahmeng\Desktop\conference app help\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\shekkahmeng\Desktop\conference app help\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\shekkahmeng\Desktop\conference app help\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\shekkahmeng\Desktop\conference app help\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\shekkahmeng\Desktop\conference app help\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Microsoft.Web.Helpers.dll
+C:\Users\shekkahmeng\Desktop\conference app help\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\shekkahmeng\Desktop\conference app help\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Newtonsoft.Json.dll
+C:\Users\shekkahmeng\Desktop\conference app help\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Owin.dll
+C:\Users\shekkahmeng\Desktop\conference app help\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Spire.Barcode.dll
+C:\Users\shekkahmeng\Desktop\conference app help\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Spire.Common.dll
+C:\Users\shekkahmeng\Desktop\conference app help\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Spire.DataExport.dll
+C:\Users\shekkahmeng\Desktop\conference app help\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Spire.DataExport.ResourceMgr.dll
+C:\Users\shekkahmeng\Desktop\conference app help\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Spire.Doc.dll
+C:\Users\shekkahmeng\Desktop\conference app help\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Spire.DocViewer.Forms.dll
+C:\Users\shekkahmeng\Desktop\conference app help\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Spire.License.dll
+C:\Users\shekkahmeng\Desktop\conference app help\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Spire.Pdf.dll
+C:\Users\shekkahmeng\Desktop\conference app help\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Spire.PdfViewer.Forms.dll
+C:\Users\shekkahmeng\Desktop\conference app help\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Spire.Presentation.dll
+C:\Users\shekkahmeng\Desktop\conference app help\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Spire.XLS.dll
+C:\Users\shekkahmeng\Desktop\conference app help\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\System.Web.Helpers.dll
+C:\Users\shekkahmeng\Desktop\conference app help\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\System.Web.Mvc.dll
+C:\Users\shekkahmeng\Desktop\conference app help\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\System.Web.Optimization.dll
+C:\Users\shekkahmeng\Desktop\conference app help\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\System.Web.Razor.dll
+C:\Users\shekkahmeng\Desktop\conference app help\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\System.Web.WebPages.Deployment.dll
+C:\Users\shekkahmeng\Desktop\conference app help\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\System.Web.WebPages.dll
+C:\Users\shekkahmeng\Desktop\conference app help\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\System.Web.WebPages.Razor.dll
+C:\Users\shekkahmeng\Desktop\conference app help\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\WebGrease.dll
+C:\Users\shekkahmeng\Desktop\conference app help\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\WebMatrix.Data.dll
+C:\Users\shekkahmeng\Desktop\conference app help\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\WebMatrix.WebData.dll
+C:\Users\shekkahmeng\Desktop\conference app help\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Spire.Barcode.xml
+C:\Users\shekkahmeng\Desktop\conference app help\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Spire.Common.xml
+C:\Users\shekkahmeng\Desktop\conference app help\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Spire.DataExport.xml
+C:\Users\shekkahmeng\Desktop\conference app help\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Spire.Doc.xml
+C:\Users\shekkahmeng\Desktop\conference app help\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Spire.DocViewer.Forms.xml
+C:\Users\shekkahmeng\Desktop\conference app help\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Spire.License.xml
+C:\Users\shekkahmeng\Desktop\conference app help\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Spire.Pdf.xml
+C:\Users\shekkahmeng\Desktop\conference app help\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Spire.PdfViewer.Forms.xml
+C:\Users\shekkahmeng\Desktop\conference app help\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Spire.Presentation.xml
+C:\Users\shekkahmeng\Desktop\conference app help\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Spire.XLS.xml
+C:\Users\shekkahmeng\Desktop\conference app help\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\System.Web.Helpers.xml
+C:\Users\shekkahmeng\Desktop\conference app help\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\System.Web.Razor.xml
+C:\Users\shekkahmeng\Desktop\conference app help\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\System.Web.WebPages.xml
+C:\Users\shekkahmeng\Desktop\conference app help\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\System.Web.WebPages.Deployment.xml
+C:\Users\shekkahmeng\Desktop\conference app help\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\System.Web.WebPages.Razor.xml
+C:\Users\shekkahmeng\Desktop\conference app help\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\System.Web.Mvc.xml
+C:\Users\shekkahmeng\Desktop\conference app help\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\System.Web.Optimization.xml
+C:\Users\shekkahmeng\Desktop\conference app help\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Newtonsoft.Json.xml
+C:\Users\shekkahmeng\Desktop\conference app help\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Antlr3.Runtime.pdb
+C:\Users\shekkahmeng\Desktop\conference app help\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\WebMatrix.Data.xml
+C:\Users\shekkahmeng\Desktop\conference app help\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\WebMatrix.WebData.xml
+C:\Users\shekkahmeng\Desktop\conference app help\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\EntityFramework.xml
+C:\Users\shekkahmeng\Desktop\conference app help\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\EntityFramework.SqlServer.xml
+C:\Users\shekkahmeng\Desktop\conference app help\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\shekkahmeng\Desktop\conference app help\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\shekkahmeng\Desktop\conference app help\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\shekkahmeng\Desktop\conference app help\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Microsoft.Owin.xml
+C:\Users\shekkahmeng\Desktop\conference app help\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\shekkahmeng\Desktop\conference app help\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Microsoft.Owin.Security.xml
+C:\Users\shekkahmeng\Desktop\conference app help\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\shekkahmeng\Desktop\conference app help\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\shekkahmeng\Desktop\conference app help\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\shekkahmeng\Desktop\conference app help\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\shekkahmeng\Desktop\conference app help\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\shekkahmeng\Desktop\conference app help\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\shekkahmeng\Desktop\conference app help\database\ConferenceManagementSystem\ConferenceManagementSystem\obj\Debug\ConferenceManagementSystem.csprojResolveAssemblyReference.cache
+C:\Users\shekkahmeng\Desktop\conference app help\database\ConferenceManagementSystem\ConferenceManagementSystem\obj\Debug\ConferenceManagementSystem.dll
+C:\Users\shekkahmeng\Desktop\conference app help\database\ConferenceManagementSystem\ConferenceManagementSystem\obj\Debug\ConferenceManagementSystem.pdb
+C:\Users\Long\Desktop\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\ConferenceManagementSystem.dll.config
+C:\Users\Long\Desktop\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\ConferenceManagementSystem.dll
+C:\Users\Long\Desktop\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\ConferenceManagementSystem.pdb
+C:\Users\Long\Desktop\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Antlr3.Runtime.dll
+C:\Users\Long\Desktop\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\BotDetect.dll
+C:\Users\Long\Desktop\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\BotDetect.Web.UI.Mvc.dll
+C:\Users\Long\Desktop\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\EntityFramework.dll
+C:\Users\Long\Desktop\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\EntityFramework.SqlServer.dll
+C:\Users\Long\Desktop\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Long\Desktop\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Long\Desktop\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Long\Desktop\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Microsoft.Owin.dll
+C:\Users\Long\Desktop\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Long\Desktop\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Long\Desktop\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Microsoft.Owin.Security.dll
+C:\Users\Long\Desktop\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Long\Desktop\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Long\Desktop\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Long\Desktop\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Long\Desktop\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Long\Desktop\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Microsoft.Web.Helpers.dll
+C:\Users\Long\Desktop\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Long\Desktop\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Newtonsoft.Json.dll
+C:\Users\Long\Desktop\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Owin.dll
+C:\Users\Long\Desktop\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Spire.Barcode.dll
+C:\Users\Long\Desktop\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Spire.Common.dll
+C:\Users\Long\Desktop\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Spire.DataExport.dll
+C:\Users\Long\Desktop\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Spire.DataExport.ResourceMgr.dll
+C:\Users\Long\Desktop\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Spire.Doc.dll
+C:\Users\Long\Desktop\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Spire.DocViewer.Forms.dll
+C:\Users\Long\Desktop\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Spire.License.dll
+C:\Users\Long\Desktop\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Spire.Pdf.dll
+C:\Users\Long\Desktop\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Spire.PdfViewer.Forms.dll
+C:\Users\Long\Desktop\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Spire.Presentation.dll
+C:\Users\Long\Desktop\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Spire.XLS.dll
+C:\Users\Long\Desktop\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\System.Web.Helpers.dll
+C:\Users\Long\Desktop\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\System.Web.Mvc.dll
+C:\Users\Long\Desktop\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\System.Web.Optimization.dll
+C:\Users\Long\Desktop\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\System.Web.Razor.dll
+C:\Users\Long\Desktop\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Long\Desktop\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\System.Web.WebPages.dll
+C:\Users\Long\Desktop\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\System.Web.WebPages.Razor.dll
+C:\Users\Long\Desktop\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\WebGrease.dll
+C:\Users\Long\Desktop\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\WebMatrix.Data.dll
+C:\Users\Long\Desktop\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\WebMatrix.WebData.dll
+C:\Users\Long\Desktop\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Microsoft.mshtml.dll
+C:\Users\Long\Desktop\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Spire.Barcode.xml
+C:\Users\Long\Desktop\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Spire.Common.xml
+C:\Users\Long\Desktop\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Spire.DataExport.xml
+C:\Users\Long\Desktop\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Spire.Doc.xml
+C:\Users\Long\Desktop\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Spire.DocViewer.Forms.xml
+C:\Users\Long\Desktop\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Spire.License.xml
+C:\Users\Long\Desktop\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Spire.Pdf.xml
+C:\Users\Long\Desktop\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Spire.PdfViewer.Forms.xml
+C:\Users\Long\Desktop\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Spire.Presentation.xml
+C:\Users\Long\Desktop\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Spire.XLS.xml
+C:\Users\Long\Desktop\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\System.Web.Helpers.xml
+C:\Users\Long\Desktop\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\System.Web.Razor.xml
+C:\Users\Long\Desktop\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\System.Web.WebPages.xml
+C:\Users\Long\Desktop\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Long\Desktop\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\System.Web.WebPages.Razor.xml
+C:\Users\Long\Desktop\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\System.Web.Mvc.xml
+C:\Users\Long\Desktop\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\System.Web.Optimization.xml
+C:\Users\Long\Desktop\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Newtonsoft.Json.xml
+C:\Users\Long\Desktop\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Antlr3.Runtime.pdb
+C:\Users\Long\Desktop\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\WebMatrix.Data.xml
+C:\Users\Long\Desktop\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\WebMatrix.WebData.xml
+C:\Users\Long\Desktop\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\EntityFramework.xml
+C:\Users\Long\Desktop\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\EntityFramework.SqlServer.xml
+C:\Users\Long\Desktop\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Long\Desktop\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Long\Desktop\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Long\Desktop\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Microsoft.Owin.xml
+C:\Users\Long\Desktop\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Long\Desktop\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Microsoft.Owin.Security.xml
+C:\Users\Long\Desktop\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Long\Desktop\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Long\Desktop\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Long\Desktop\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Long\Desktop\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Long\Desktop\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Long\Desktop\database\ConferenceManagementSystem\ConferenceManagementSystem\obj\Debug\ConferenceManagementSystem.csprojResolveAssemblyReference.cache
+C:\Users\Long\Desktop\database\ConferenceManagementSystem\ConferenceManagementSystem\obj\Debug\ConferenceManagementSystem.dll
+C:\Users\Long\Desktop\database\ConferenceManagementSystem\ConferenceManagementSystem\obj\Debug\ConferenceManagementSystem.pdb
+C:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\ConferenceManagementSystem.dll
+C:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\ConferenceManagementSystem.pdb
+C:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Antlr3.Runtime.dll
+C:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\BotDetect.dll
+C:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\BotDetect.Web.UI.Mvc.dll
+C:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\EntityFramework.dll
+C:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\EntityFramework.SqlServer.dll
+C:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Microsoft.AspNet.Identity.Core.dll
+C:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Microsoft.Owin.dll
+C:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Microsoft.Owin.Security.Cookies.dll
+C:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Microsoft.Owin.Security.dll
+C:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Microsoft.Owin.Security.Facebook.dll
+C:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Microsoft.Owin.Security.Google.dll
+C:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Microsoft.Owin.Security.OAuth.dll
+C:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Microsoft.Owin.Security.Twitter.dll
+C:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Microsoft.Web.Helpers.dll
+C:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Microsoft.Web.Infrastructure.dll
+C:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Newtonsoft.Json.dll
+C:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Owin.dll
+C:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Spire.Barcode.dll
+C:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Spire.Common.dll
+C:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Spire.DataExport.dll
+C:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Spire.DataExport.ResourceMgr.dll
+C:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Spire.Doc.dll
+C:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Spire.DocViewer.Forms.dll
+C:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Spire.License.dll
+C:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Spire.Pdf.dll
+C:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Spire.PdfViewer.Forms.dll
+C:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Spire.Presentation.dll
+C:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Spire.XLS.dll
+C:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\System.Web.Helpers.dll
+C:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\System.Web.Mvc.dll
+C:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\System.Web.Optimization.dll
+C:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\System.Web.Razor.dll
+C:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\System.Web.WebPages.Deployment.dll
+C:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\System.Web.WebPages.dll
+C:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\System.Web.WebPages.Razor.dll
+C:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\WebGrease.dll
+C:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\WebMatrix.Data.dll
+C:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\WebMatrix.WebData.dll
+C:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Spire.Barcode.xml
+C:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Spire.Common.xml
+C:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Spire.DataExport.xml
+C:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Spire.Doc.xml
+C:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Spire.DocViewer.Forms.xml
+C:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Spire.License.xml
+C:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Spire.Pdf.xml
+C:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Spire.PdfViewer.Forms.xml
+C:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Spire.Presentation.xml
+C:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Spire.XLS.xml
+C:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\System.Web.Helpers.xml
+C:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\System.Web.Razor.xml
+C:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\System.Web.WebPages.xml
+C:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\System.Web.WebPages.Deployment.xml
+C:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\System.Web.WebPages.Razor.xml
+C:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\System.Web.Mvc.xml
+C:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\System.Web.Optimization.xml
+C:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Newtonsoft.Json.xml
+C:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Antlr3.Runtime.pdb
+C:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\WebMatrix.Data.xml
+C:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\WebMatrix.WebData.xml
+C:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\EntityFramework.xml
+C:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\EntityFramework.SqlServer.xml
+C:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Microsoft.AspNet.Identity.Core.xml
+C:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Microsoft.Owin.xml
+C:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Microsoft.Owin.Security.xml
+C:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Microsoft.Owin.Security.Facebook.xml
+C:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Microsoft.Owin.Security.Cookies.xml
+C:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Microsoft.Owin.Security.OAuth.xml
+C:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Microsoft.Owin.Security.Google.xml
+C:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Microsoft.Owin.Security.Twitter.xml
+C:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\database\ConferenceManagementSystem\ConferenceManagementSystem\obj\Debug\ConferenceManagementSystem.csprojResolveAssemblyReference.cache
+C:\database\ConferenceManagementSystem\ConferenceManagementSystem\obj\Debug\ConferenceManagementSystem.dll
+C:\database\ConferenceManagementSystem\ConferenceManagementSystem\obj\Debug\ConferenceManagementSystem.pdb
+C:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\ConferenceManagementSystem.dll.config
+C:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Microsoft.mshtml.dll
+D:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\ConferenceManagementSystem.dll.config
+D:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\ConferenceManagementSystem.dll
+D:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\ConferenceManagementSystem.pdb
+D:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Antlr3.Runtime.dll
+D:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\BotDetect.dll
+D:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\BotDetect.Web.UI.Mvc.dll
+D:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\EntityFramework.dll
+D:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\EntityFramework.SqlServer.dll
+D:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Microsoft.AspNet.Identity.Core.dll
+D:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Microsoft.Owin.dll
+D:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Microsoft.Owin.Security.Cookies.dll
+D:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Microsoft.Owin.Security.dll
+D:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Microsoft.Owin.Security.Facebook.dll
+D:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Microsoft.Owin.Security.Google.dll
+D:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Microsoft.Owin.Security.OAuth.dll
+D:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Microsoft.Owin.Security.Twitter.dll
+D:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Microsoft.Web.Helpers.dll
+D:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Microsoft.Web.Infrastructure.dll
+D:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Newtonsoft.Json.dll
+D:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Owin.dll
+D:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Spire.Barcode.dll
+D:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Spire.Common.dll
+D:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Spire.DataExport.dll
+D:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Spire.DataExport.ResourceMgr.dll
+D:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Spire.Doc.dll
+D:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Spire.DocViewer.Forms.dll
+D:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Spire.License.dll
+D:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Spire.Pdf.dll
+D:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Spire.PdfViewer.Forms.dll
+D:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Spire.Presentation.dll
+D:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Spire.XLS.dll
+D:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\System.Web.Helpers.dll
+D:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\System.Web.Mvc.dll
+D:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\System.Web.Optimization.dll
+D:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\System.Web.Razor.dll
+D:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\System.Web.WebPages.Deployment.dll
+D:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\System.Web.WebPages.dll
+D:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\System.Web.WebPages.Razor.dll
+D:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\WebGrease.dll
+D:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\WebMatrix.Data.dll
+D:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\WebMatrix.WebData.dll
+D:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Spire.Barcode.xml
+D:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Spire.Common.xml
+D:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Spire.DataExport.xml
+D:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Spire.Doc.xml
+D:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Spire.DocViewer.Forms.xml
+D:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Spire.License.xml
+D:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Spire.Pdf.xml
+D:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Spire.PdfViewer.Forms.xml
+D:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Spire.Presentation.xml
+D:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Spire.XLS.xml
+D:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\System.Web.Helpers.xml
+D:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\System.Web.Razor.xml
+D:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\System.Web.WebPages.xml
+D:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\System.Web.WebPages.Deployment.xml
+D:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\System.Web.WebPages.Razor.xml
+D:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\System.Web.Mvc.xml
+D:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\System.Web.Optimization.xml
+D:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Newtonsoft.Json.xml
+D:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Antlr3.Runtime.pdb
+D:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\WebMatrix.Data.xml
+D:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\WebMatrix.WebData.xml
+D:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\EntityFramework.xml
+D:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\EntityFramework.SqlServer.xml
+D:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Microsoft.AspNet.Identity.Core.xml
+D:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Microsoft.Owin.xml
+D:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Microsoft.Owin.Security.xml
+D:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Microsoft.Owin.Security.Facebook.xml
+D:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Microsoft.Owin.Security.Cookies.xml
+D:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Microsoft.Owin.Security.OAuth.xml
+D:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Microsoft.Owin.Security.Google.xml
+D:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Microsoft.Owin.Security.Twitter.xml
+D:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\database\ConferenceManagementSystem\ConferenceManagementSystem\obj\Debug\ConferenceManagementSystem.csprojResolveAssemblyReference.cache
+D:\database\ConferenceManagementSystem\ConferenceManagementSystem\obj\Debug\ConferenceManagementSystem.dll
+D:\database\ConferenceManagementSystem\ConferenceManagementSystem\obj\Debug\ConferenceManagementSystem.pdb
+G:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\ConferenceManagementSystem.dll
+G:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\ConferenceManagementSystem.pdb
+G:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Antlr3.Runtime.dll
+G:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\BotDetect.dll
+G:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\BotDetect.Web.UI.Mvc.dll
+G:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\EntityFramework.dll
+G:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\EntityFramework.SqlServer.dll
+G:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Microsoft.AspNet.Identity.Core.dll
+G:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Microsoft.Owin.dll
+G:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Microsoft.Owin.Security.Cookies.dll
+G:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Microsoft.Owin.Security.dll
+G:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Microsoft.Owin.Security.Facebook.dll
+G:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Microsoft.Owin.Security.Google.dll
+G:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+G:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Microsoft.Owin.Security.OAuth.dll
+G:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Microsoft.Owin.Security.Twitter.dll
+G:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Microsoft.Web.Helpers.dll
+G:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Microsoft.Web.Infrastructure.dll
+G:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Newtonsoft.Json.dll
+G:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Owin.dll
+G:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Spire.Barcode.dll
+G:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Spire.Common.dll
+G:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Spire.DataExport.dll
+G:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Spire.DataExport.ResourceMgr.dll
+G:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Spire.Doc.dll
+G:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Spire.DocViewer.Forms.dll
+G:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Spire.License.dll
+G:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Spire.Pdf.dll
+G:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Spire.PdfViewer.Forms.dll
+G:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Spire.Presentation.dll
+G:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Spire.XLS.dll
+G:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\System.Web.Helpers.dll
+G:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\System.Web.Mvc.dll
+G:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\System.Web.Optimization.dll
+G:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\System.Web.Razor.dll
+G:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\System.Web.WebPages.Deployment.dll
+G:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\System.Web.WebPages.dll
+G:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\System.Web.WebPages.Razor.dll
+G:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\WebGrease.dll
+G:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\WebMatrix.Data.dll
+G:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\WebMatrix.WebData.dll
+G:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Spire.Barcode.xml
+G:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Spire.Common.xml
+G:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Spire.DataExport.xml
+G:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Spire.Doc.xml
+G:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Spire.DocViewer.Forms.xml
+G:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Spire.License.xml
+G:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Spire.Pdf.xml
+G:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Spire.PdfViewer.Forms.xml
+G:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Spire.Presentation.xml
+G:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Spire.XLS.xml
+G:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\System.Web.Helpers.xml
+G:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\System.Web.Razor.xml
+G:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\System.Web.WebPages.xml
+G:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\System.Web.WebPages.Deployment.xml
+G:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\System.Web.WebPages.Razor.xml
+G:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\System.Web.Mvc.xml
+G:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\System.Web.Optimization.xml
+G:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Newtonsoft.Json.xml
+G:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Antlr3.Runtime.pdb
+G:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\WebMatrix.Data.xml
+G:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\WebMatrix.WebData.xml
+G:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\EntityFramework.xml
+G:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\EntityFramework.SqlServer.xml
+G:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Microsoft.AspNet.Identity.Core.xml
+G:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Microsoft.Owin.xml
+G:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Microsoft.Owin.Security.xml
+G:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Microsoft.Owin.Security.Facebook.xml
+G:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Microsoft.Owin.Security.Cookies.xml
+G:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Microsoft.Owin.Security.OAuth.xml
+G:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Microsoft.Owin.Security.Google.xml
+G:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Microsoft.Owin.Security.Twitter.xml
+G:\database\ConferenceManagementSystem\ConferenceManagementSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+G:\database\ConferenceManagementSystem\ConferenceManagementSystem\obj\Debug\ConferenceManagementSystem.csprojResolveAssemblyReference.cache
+G:\database\ConferenceManagementSystem\ConferenceManagementSystem\obj\Debug\ConferenceManagementSystem.dll
+G:\database\ConferenceManagementSystem\ConferenceManagementSystem\obj\Debug\ConferenceManagementSystem.pdb

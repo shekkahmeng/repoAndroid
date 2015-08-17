@@ -1,0 +1,10 @@
+﻿@model IEnumerable<ConferenceManagementSystem.Models.Conference>
+
+@{
+    ViewBag.Title = "Home";
+    Layout = "~/Views/Shared/HomeLayout.cshtml";
+}
+
+<h2>Home</h2>
+
+@Html.Raw(ViewBag.welcomeText)

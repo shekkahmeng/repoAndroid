@@ -1,0 +1,42 @@
+﻿@model IEnumerable<ConferenceManagementSystem.Models.Fee>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Category)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.EarlyBird)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Normal)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Category)
+            </td>
+            <td>
+                @Html.EditorFor(modelItem => item.EarlyBird)
+            </td>
+            <td>
+                @Html.EditorFor(modelItem => item.Normal)
+            </td>
+            <td>
+                @Html.ActionLink("Delete", "Delete", new { id = item.FeeId })
+            </td>
+        </tr>
+    }
+
+</table>

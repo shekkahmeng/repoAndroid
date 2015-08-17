@@ -1,0 +1,53 @@
+﻿@model IEnumerable<ConferenceManagementSystem.Models.Conference>
+
+@{
+    ViewBag.Title = "Admin Main Page";
+}
+
+<h2 class="not-login">Conference List <small> users and conference created</small></h2>
+<hr/>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Username)
+        </th>
+
+        <th>
+            @Html.DisplayNameFor(model => model.OrganizerName)
+        </th>
+        
+        <th>
+            @Html.DisplayNameFor(model => model.Date)
+        </th>
+
+        <th>Action</th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Username)
+            </td>
+
+            <td>
+                @Html.ActionLink(item.OrganizerName, "Details", new { id = item.ConferenceId })
+            </td>
+
+            <td>
+                @Html.DisplayFor(modelItem => item.Date)
+            </td>
+
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id = item.ConferenceId }, new { @class = "btn btn-default btn-gradient" })
+                
+                @Html.ActionLink("Delete", "Delete", new { id = item.ConferenceId }, new { @class = "btn btn-default btn-gradient" })
+            </td>
+        </tr>
+    }
+
+</table>
+
+<p>
+    @Html.ActionLink("Create New User", "Create", null, new { @class = "btn btn-default btn-gradient" })
+</p>

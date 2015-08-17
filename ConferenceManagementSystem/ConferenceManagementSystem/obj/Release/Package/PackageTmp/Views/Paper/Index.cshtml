@@ -1,0 +1,112 @@
+﻿@model IEnumerable<ConferenceManagementSystem.Models.Paper>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/HomeLayout.cshtml";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.conference.Username)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.user.Email)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.PaperTitle)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.AuthorList)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Co_Author)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Affiliation)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Presenter)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Abstract)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.PaperDescription)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.AbstractFile)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Keywords)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.TopicId)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.AbstractSubmissionDate)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.AbstractSubmissionNotification)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.conference.Username)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.user.Email)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.PaperTitle)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.AuthorList)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Co_Author)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Affiliation)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Presenter)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Abstract)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.PaperDescription)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.AbstractFile)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Keywords)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.TopicId)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.AbstractSubmissionDate)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.AbstractSubmissionNotification)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.PaperId }) |
+            @Html.ActionLink("Details", "Details", new { id=item.PaperId }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.PaperId })
+        </td>
+    </tr>
+}
+
+</table>

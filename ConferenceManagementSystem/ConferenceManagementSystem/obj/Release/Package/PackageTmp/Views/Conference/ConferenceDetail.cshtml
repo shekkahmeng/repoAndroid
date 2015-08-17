@@ -1,0 +1,167 @@
+﻿@model ConferenceManagementSystem.Models.Conference
+
+@{
+    ViewBag.Title = "ConferenceDetail";
+}
+
+<h2>ConferenceDetail</h2>
+
+@using (Html.BeginForm("ConferenceDetail", "Conference", FormMethod.Post, new { enctype = "multipart/form-data" }))
+{
+    @Html.AntiForgeryToken()
+
+    <div class="form-horizontal">
+        <h4>Conference</h4>
+        <hr />
+        @Html.ValidationSummary(true)
+        @Html.HiddenFor(model => model.ConferenceId)
+        @Html.HiddenFor(model => model.Password)
+        @Html.HiddenFor(model => model.ConfirmedPassword)
+        @Html.HiddenFor(model => model.Date)
+        @Html.HiddenFor(model => model.ContactName)
+        @Html.HiddenFor(model => model.Contact)
+        @Html.HiddenFor(model => model.Username)
+        @Html.HiddenFor(model => model.SystemEmail)
+        @Html.HiddenFor(model => model.LinkDirectory)
+        @Html.HiddenFor(model => model.PaperPrefix)
+        @Html.HiddenFor(model => model.Logo)
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.OrganizerName, new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.OrganizerName)
+                @Html.ValidationMessageFor(model => model.OrganizerName)
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Logo, new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                <img id="imagePre" src=@Model.PhotoString alt="your image" width="200" height="200" />
+                <input type="file" name="LogoByte" class="input-files" id="imgInp"/>
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Short_Name, new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.Short_Name)
+                @Html.ValidationMessageFor(model => model.Short_Name)
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.PaperPrefix, new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.DisplayFor(model => model.PaperPrefix)
+                @Html.ValidationMessageFor(model => model.PaperPrefix)
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.LinkDirectory, new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.DisplayFor(model => model.LinkDirectory)
+                @Html.ValidationMessageFor(model => model.LinkDirectory)
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.ChairmanName, new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.ChairmanName)
+                @Html.ValidationMessageFor(model => model.ChairmanName)
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.ChairmanEmail, new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.ChairmanEmail)
+                @Html.ValidationMessageFor(model => model.ChairmanEmail)
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.ConferencePhone, new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.ConferencePhone)
+                @Html.ValidationMessageFor(model => model.ConferencePhone)
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.SystemEmail, new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.DisplayFor(model => model.SystemEmail)
+                @Html.ValidationMessageFor(model => model.SystemEmail)
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Website, new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.Website)
+                @Html.ValidationMessageFor(model => model.Website)
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.SecretariatAddress, new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.SecretariatAddress)
+                @Html.ValidationMessageFor(model => model.SecretariatAddress)
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.ConferenceTime, new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.ConferenceTime)
+                @Html.ValidationMessageFor(model => model.ConferenceTime)
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.ConferenceVenue, new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.ConferenceVenue)
+                @Html.ValidationMessageFor(model => model.ConferenceVenue)
+            </div>
+        </div>
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Save" class="btn btn-default" />
+            </div>
+        </div>
+    </div>
+}
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        var img = $('#imagePre').attr('src');
+        if (img == null || img == "#") {
+            $('#imagePre').hide();
+        }
+    });
+    function readURL(input) {
+        if (input.files && input.files[0]) {
+            var reader = new FileReader();
+
+            reader.onload = function (e) {
+                $('#imagePre').attr('src', e.target.result);
+                $('#imagePre').show();
+            }
+            reader.readAsDataURL(input.files[0]);
+        }
+        else {
+            $('#imagePre').hide();
+        }
+    }
+
+    $("#imgInp").change(function () {
+        readURL(this);
+    });
+</script>
+

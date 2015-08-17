@@ -1,0 +1,90 @@
+﻿@model ConferenceManagementSystem.Models.Content
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Content</h4>
+	<hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.conference.Username)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.conference.Username)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.NewInfo)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NewInfo)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.WelcomeTitle)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.WelcomeTitle)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.WelcomeText)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.WelcomeText)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Organizer)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Organizer)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Accomodation)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Accomodation)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Committee)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Committee)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.CallForPapers)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CallForPapers)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Programmes)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Programmes)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.ContentId }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

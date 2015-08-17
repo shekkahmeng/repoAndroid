@@ -1,0 +1,131 @@
+﻿@model ConferenceManagementSystem.Models.Paper
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/HomeLayout.cshtml";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Paper</h4>
+	<hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.conference.Username)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.conference.Username)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.user.Email)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.user.Email)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.PaperTitle)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.PaperTitle)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.AuthorList)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.AuthorList)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Co_Author)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Co_Author)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Affiliation)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Affiliation)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Presenter)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Presenter)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Abstract)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Abstract)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.PaperDescription)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.PaperDescription)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.AbstractFile)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.AbstractFile)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Keywords)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Keywords)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.TopicId)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.TopicId)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.AbstractSubmissionDate)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.AbstractSubmissionDate)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.AbstractSubmissionNotification)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.AbstractSubmissionNotification)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.PaperId }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

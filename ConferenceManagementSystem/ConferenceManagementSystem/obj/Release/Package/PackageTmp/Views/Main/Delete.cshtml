@@ -1,0 +1,176 @@
+﻿@model ConferenceManagementSystem.Models.Conference
+
+@{
+    ViewBag.Title = "Delete";
+}
+
+<h2>Delete</h2>
+
+<h3>Are you sure you want to delete this?</h3>
+<div>
+    <h4>Conference</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Username)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Username)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.encryptedPassword)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.encryptedPassword)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.OrganizerName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.OrganizerName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Website)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Website)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Date)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Date)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ContactName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ContactName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Contact)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Contact)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.PaperPrefix)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.PaperPrefix)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.LinkDirectory)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.LinkDirectory)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.LoggedIn)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.LoggedIn)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Logo)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Logo)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Short_Name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Short_Name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ChairmanName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ChairmanName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ChairmanEmail)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ChairmanEmail)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ConferencePhone)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ConferencePhone)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.SystemEmail)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.SystemEmail)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.SecretariatAddress)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.SecretariatAddress)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ConferenceTime)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ConferenceTime)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ConferenceVenue)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ConferenceVenue)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Delete" class="btn btn-default" /> |
+            @Html.ActionLink("Back to List", "Index")
+        </div>
+    }
+</div>
